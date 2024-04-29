@@ -5,6 +5,7 @@
 #include "Editor_Window.h"
 
 #define MAX_LOADSTRING 100
+// 깃허브 테스트
 
 // 전역 변수:
 HINSTANCE hInst;                                // 현재 인스턴스입니다.
